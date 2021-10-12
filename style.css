@@ -1,0 +1,260 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background: url(./Walden_Landing_Video_-_Desktop-High-96k_updated_compressed\ 1.png) no-repeat center center/cover;
+    height: 100vh;
+    position: relative;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    height: 10vh;
+    padding: 2% 2%;
+}
+.logo{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+ul{
+    width: 40%;
+}
+li{
+    list-style: none;
+    text-decoration: none;
+}
+.navbar-links{
+    display: flex;
+    justify-content: space-around;
+}
+.navbar-links a{
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+button{
+    border: 1px solid white;
+    border-radius: 15px;
+    color: white;
+    background-color: rgba(64, 224, 208, 0);
+    height: 30px;
+    width: 150px;
+    position: absolute;
+    top: 585px;
+    left: 615px;
+}
+.text p{
+    color: #757575;
+    font-size: 28px;
+    font-family: Roboto;
+    text-align: center;
+    margin: 60px 195px 0px 300px;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    margin: 60px 0px 60px 0px;
+}
+.card{
+    margin-left: 40px;
+}
+.card img{
+    height: 504px;
+    width: 386px;
+}
+.card h4{
+    color: #757575;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 14px;
+    margin-top: 20px;
+}
+.card-2 h4{
+    color: #757575;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 14px;
+    margin-top: 20px;
+}
+.card-2 img{
+    height: 504px;
+    width: 386px;
+}
+.card-3{
+    margin-right: 40px;
+}
+.card-3 h4{
+    color: #757575;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 14px;
+    margin-top: 20px;
+}
+.card-3 img{
+    height: 504px;
+    width: 386px;
+}
+.section-2{
+    background: url(./section-2.png) no-repeat center center/cover;
+    margin: 0px 0px 0px 20px;
+    height: 777px;
+    width: 98%
+}
+h6{
+    display: flex;
+    justify-content: center;
+    padding-top: 56px;
+    font-family: sans-serif; 
+    font-size: 26px;
+    color: #fff;
+}
+p{
+    color: #fff;
+    font-size: 14px;
+    font-family: sans-serif;
+    margin-top: 20px;
+    text-align: center;
+}
+.bt .sec2bt{
+    margin: 1560px 0px 0px 60px;
+    margin-left: 1%;
+    border: 1px solid #fff;
+    height: 36px;
+    width: 105px;
+    border-radius: 50px;
+}
+.head p{
+    color: #757575;
+    font-size: 28px;
+    margin: 40px 0px 50px 0px;
+}
+.card-4 img{
+    z-index: -1;
+    position: relative;
+}
+.card-5 img{
+    z-index: -1;
+    position: relative;
+}
+.card-6 img{
+    z-index: -1;
+    position: relative;
+}
+.box {
+    border: 2px solid #fff;
+    border-radius: 12px;
+    background: #fff;
+    width: 90%;
+    margin: -3em auto;
+    z-index: 4;
+}
+.box p{
+    color: #757575;
+}
+.logo-2{
+    margin-top: 90px;
+}
+.logo-3{
+    margin-top: 90px;
+}
+.logo-4{
+    margin-top: 90px;
+}
+.it p{
+    margin-top: 60px;
+    color: #757575;
+    font-size: 18px;
+}
+.gq{
+    margin-top: 60px;
+}
+.buzzfeed{
+    margin-top: 60px;
+}
+.designmilk{
+    margin-top: 60px;
+}
+.park p{
+    margin-top: 60px;
+    color: #757575;
+    font-size: 18px;
+}
+.section-4{
+    background: url(./section-4.png) no-repeat center center/cover;
+    height: 125vh;
+    margin: 0px 20px 0px 20px;
+}
+.paragraph p{
+    font-size: 14px;
+    padding-top: 180px;
+}
+.sec3bt{
+    margin: 3550px 0px 0px 60px;
+    margin-left: 1%;
+    border: 1px solid #fff;
+    height: 36px;
+    width: 185px;
+    border-radius: 50px;
+}
+.intr0 p{
+    color: #757575;
+    font-size: 24px;
+    text-align: left;
+    margin-left: 60px;
+}
+.container-2{
+    display: flex;
+    justify-content: space-around;
+}
+.container-2 img{
+    margin-top: 30px;
+}
+.card-7{
+    margin-left: 40px;
+}
+.card-9{
+    margin-right: 40px;
+}
+.container-2 p{
+    color: #757575;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 18px;
+}
+footer{
+    height: 195px;
+}
+.top p{
+    margin-left: 10%;
+    margin-top: 6%;
+    color: #757575;
+}
+.email{
+    color: #757575;
+    margin: 4365px 50% 0px 20px;
+    margin-left: auto;
+    border: 1px solid #757575;
+    height: 27px;
+    width: 277px;
+    border-radius: 50px;
+}
+.nav{
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+    width: 99%;
+}
+.nav a{
+    color: #757575;
+    text-decoration: none;
+    margin-top: 80px;
+    /* width: 40%; */
+    display: flex;
+    justify-content: space-around;
+    font-size: 18px;
+}
